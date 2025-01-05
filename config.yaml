@@ -1,2 +1,2 @@
-path: "path_to_model.joblib
+path: "dt.joblib
 features: ['feature_A', 'feature_B']
