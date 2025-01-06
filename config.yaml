@@ -1,2 +1,2 @@
-path: "my.joblib
+path: "my_predict.joblib
 features: ['bill_depth_mm', 'body_mass_g']
