@@ -1,3 +1,3 @@
-path: "mymy_predict.joblib
+path: "mymy_model.joblib
 features: [DFA, PPE]
 #
